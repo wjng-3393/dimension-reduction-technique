@@ -1,5 +1,9 @@
 # dimension-reduction-technique
 
+	•	Many datasets (like images, text, genetics, finance) have hundreds or thousands of features.
+	•	Not all features are useful — some are redundant (correlated with others) or noisy (random, not adding information).
+	•	Dimension reduction is the process of transforming high-dimensional data into a smaller set of features while keeping as much useful information as possible.
+
 Think of it as
 Summerizing a big dataset into fewer dimensions,like condensing a long book into a short summary but still keeping the main idea.
 Why do we need this ?
